@@ -98,6 +98,8 @@ aiohttp
 beautifulsoup4
 requests
 eventlet
+reportlab
+Pillow
 ```
 
 ---
