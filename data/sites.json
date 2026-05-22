@@ -1,0 +1,2448 @@
+[
+  {
+    "name": "Instagram",
+    "url": "https://www.instagram.com/{username}/",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "X (Twitter)",
+    "url": "https://x.com/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "TikTok",
+    "url": "https://www.tiktok.com/@{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Facebook",
+    "url": "https://www.facebook.com/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Snapchat",
+    "url": "https://www.snapchat.com/add/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Pinterest",
+    "url": "https://www.pinterest.com/{username}/",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Tumblr",
+    "url": "https://{username}.tumblr.com",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Reddit",
+    "url": "https://www.reddit.com/user/{username}/",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/in/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Telegram",
+    "url": "https://t.me/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Threads",
+    "url": "https://www.threads.net/@{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Discord",
+    "url": "https://discord.com/users/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "WhatsApp",
+    "url": "https://wa.me/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Mastodon",
+    "url": "https://mastodon.social/@{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Bsky",
+    "url": "https://bsky.app/profile/{username}.bsky.social",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "BeReal",
+    "url": "https://bere.al/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Flickr",
+    "url": "https://www.flickr.com/people/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Ask.fm",
+    "url": "https://ask.fm/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "About.me",
+    "url": "https://about.me/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Linktree",
+    "url": "https://linktr.ee/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Carrd",
+    "url": "https://{username}.carrd.co",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Quora",
+    "url": "https://www.quora.com/profile/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Medium",
+    "url": "https://medium.com/@{username}",
+    "check_string": "og:title",
+    "category": "blog",
+    "country": "🌍"
+  },
+  {
+    "name": "Substack",
+    "url": "https://{username}.substack.com",
+    "check_string": "og:title",
+    "category": "blog",
+    "country": "🌍"
+  },
+  {
+    "name": "Livejournal",
+    "url": "https://{username}.livejournal.com",
+    "check_string": "og:title",
+    "category": "blog",
+    "country": "🌍"
+  },
+  {
+    "name": "Blogger",
+    "url": "https://{username}.blogspot.com",
+    "check_string": "og:title",
+    "category": "blog",
+    "country": "🌍"
+  },
+  {
+    "name": "WordPress",
+    "url": "https://{username}.wordpress.com",
+    "check_string": "og:title",
+    "category": "blog",
+    "country": "🌍"
+  },
+  {
+    "name": "Gettr",
+    "url": "https://gettr.com/user/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Truth Social",
+    "url": "https://truthsocial.com/@{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Gab",
+    "url": "https://gab.com/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Plurk",
+    "url": "https://www.plurk.com/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "MeWe",
+    "url": "https://mewe.com/i/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "WeHeartIt",
+    "url": "https://weheartit.com/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Keybase",
+    "url": "https://keybase.io/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Amino Apps",
+    "url": "https://aminoapps.com/u/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@{username}",
+    "check_string": "og:title",
+    "category": "video",
+    "country": "🌍"
+  },
+  {
+    "name": "Twitch",
+    "url": "https://www.twitch.tv/{username}",
+    "check_string": "og:title",
+    "category": "video",
+    "country": "🌍"
+  },
+  {
+    "name": "Vimeo",
+    "url": "https://vimeo.com/{username}",
+    "check_string": "og:title",
+    "category": "video",
+    "country": "🌍"
+  },
+  {
+    "name": "Dailymotion",
+    "url": "https://www.dailymotion.com/{username}",
+    "check_string": "og:title",
+    "category": "video",
+    "country": "🌍"
+  },
+  {
+    "name": "Odysee",
+    "url": "https://odysee.com/@{username}",
+    "check_string": "og:title",
+    "category": "video",
+    "country": "🌍"
+  },
+  {
+    "name": "Rumble",
+    "url": "https://rumble.com/user/{username}",
+    "check_string": "og:title",
+    "category": "video",
+    "country": "🌍"
+  },
+  {
+    "name": "Kick",
+    "url": "https://kick.com/{username}",
+    "check_string": "og:title",
+    "category": "video",
+    "country": "🌍"
+  },
+  {
+    "name": "Bitchute",
+    "url": "https://www.bitchute.com/channel/{username}/",
+    "check_string": "og:title",
+    "category": "video",
+    "country": "🌍"
+  },
+  {
+    "name": "Trovo",
+    "url": "https://trovo.live/{username}",
+    "check_string": "og:title",
+    "category": "video",
+    "country": "🌍"
+  },
+  {
+    "name": "Medal.tv",
+    "url": "https://medal.tv/users/{username}",
+    "check_string": "og:title",
+    "category": "video",
+    "country": "🌍"
+  },
+  {
+    "name": "Steam",
+    "url": "https://steamcommunity.com/id/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Faceit",
+    "url": "https://www.faceit.com/en/players/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Chess.com",
+    "url": "https://www.chess.com/member/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Lichess",
+    "url": "https://lichess.org/@/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Roblox",
+    "url": "https://www.roblox.com/user.aspx?username={username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Minecraft NameMC",
+    "url": "https://namemc.com/profile/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Speedrun.com",
+    "url": "https://www.speedrun.com/user/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Itch.io",
+    "url": "https://{username}.itch.io",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Newgrounds",
+    "url": "https://{username}.newgrounds.com",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "BoardGameGeek",
+    "url": "https://boardgamegeek.com/user/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "GOG",
+    "url": "https://www.gog.com/u/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Ubisoft Connect",
+    "url": "https://ubisoftconnect.com/en-US/users/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Rockstar Social Club",
+    "url": "https://socialclub.rockstargames.com/member/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "War Thunder",
+    "url": "https://warthunder.com/en/community/user/{username}/",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Wargaming",
+    "url": "https://na.wargaming.net/en/users/profile/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "OP.GG",
+    "url": "https://www.op.gg/summoner/userName={username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Dotabuff",
+    "url": "https://www.dotabuff.com/players/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "HLTV.org",
+    "url": "https://www.hltv.org/search#query={username}&target=players",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Nexus Mods",
+    "url": "https://www.nexusmods.com/users/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "GameBanana",
+    "url": "https://gamebanana.com/members/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Hypixel Forums",
+    "url": "https://hypixel.net/members/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Planet Minecraft",
+    "url": "https://www.planetminecraft.com/member/{username}/",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Smash.gg",
+    "url": "https://www.start.gg/user/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "PSN Profiles",
+    "url": "https://psnprofiles.com/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "TrueAchievements",
+    "url": "https://www.trueachievements.com/gamer/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "GitLab",
+    "url": "https://gitlab.com/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Bitbucket",
+    "url": "https://bitbucket.org/{username}/",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.com/users/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "HackerNews",
+    "url": "https://news.ycombinator.com/user?id={username}",
+    "check_string": "created",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Dev.to",
+    "url": "https://dev.to/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Hashnode",
+    "url": "https://hashnode.com/@{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "CodePen",
+    "url": "https://codepen.io/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Replit",
+    "url": "https://replit.com/@{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "HuggingFace",
+    "url": "https://huggingface.co/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Kaggle",
+    "url": "https://www.kaggle.com/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "NPM",
+    "url": "https://www.npmjs.com/~{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "PyPI",
+    "url": "https://pypi.org/user/{username}/",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Docker Hub",
+    "url": "https://hub.docker.com/u/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "LeetCode",
+    "url": "https://leetcode.com/{username}/",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Codeforces",
+    "url": "https://codeforces.com/profile/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Codewars",
+    "url": "https://www.codewars.com/users/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "HackerEarth",
+    "url": "https://www.hackerearth.com/@{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "AtCoder",
+    "url": "https://atcoder.jp/users/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "HackTheBox",
+    "url": "https://app.hackthebox.com/profile/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "TryHackMe",
+    "url": "https://tryhackme.com/p/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Root Me",
+    "url": "https://www.root-me.org/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Bugcrowd",
+    "url": "https://bugcrowd.com/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "HackerOne",
+    "url": "https://hackerone.com/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Pastebin",
+    "url": "https://pastebin.com/u/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Scratch MIT",
+    "url": "https://scratch.mit.edu/users/{username}/",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Codecademy",
+    "url": "https://www.codecademy.com/profiles/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Sourcehut",
+    "url": "https://sr.ht/~{username}/",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Codeberg",
+    "url": "https://codeberg.org/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Postman",
+    "url": "https://www.postman.com/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Glitch",
+    "url": "https://glitch.com/@{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Stackblitz",
+    "url": "https://stackblitz.com/@{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Openhub",
+    "url": "https://www.openhub.net/accounts/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "SoundCloud",
+    "url": "https://soundcloud.com/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Last.fm",
+    "url": "https://www.last.fm/user/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Bandcamp",
+    "url": "https://{username}.bandcamp.com",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Mixcloud",
+    "url": "https://www.mixcloud.com/{username}/",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Audiomack",
+    "url": "https://audiomack.com/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "ReverbNation",
+    "url": "https://www.reverbnation.com/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Discogs",
+    "url": "https://www.discogs.com/user/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Deezer",
+    "url": "https://www.deezer.com/en/profile/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Genius",
+    "url": "https://genius.com/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Bandlab",
+    "url": "https://www.bandlab.com/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Jamendo",
+    "url": "https://www.jamendo.com/artist/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Anchor",
+    "url": "https://anchor.fm/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Behance",
+    "url": "https://www.behance.net/{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Dribbble",
+    "url": "https://dribbble.com/{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Deviantart",
+    "url": "https://www.deviantart.com/{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "ArtStation",
+    "url": "https://www.artstation.com/{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "500px",
+    "url": "https://500px.com/p/{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com/@{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Pixiv",
+    "url": "https://www.pixiv.net/en/users/{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "VSCO",
+    "url": "https://vsco.co/{username}/gallery",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Imgur",
+    "url": "https://imgur.com/user/{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Sketchfab",
+    "url": "https://sketchfab.com/{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Figma",
+    "url": "https://www.figma.com/@{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Redbubble",
+    "url": "https://www.redbubble.com/people/{username}/shop",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Society6",
+    "url": "https://society6.com/{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Hentai Foundry",
+    "url": "https://www.hentai-foundry.com/user/{username}/profile",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Wattpad",
+    "url": "https://www.wattpad.com/user/{username}",
+    "check_string": "og:title",
+    "category": "blog",
+    "country": "🌍"
+  },
+  {
+    "name": "FanFiction.net",
+    "url": "https://www.fanfiction.net/u/{username}/",
+    "check_string": "og:title",
+    "category": "blog",
+    "country": "🌍"
+  },
+  {
+    "name": "Archive of Our Own",
+    "url": "https://archiveofourown.org/users/{username}/profile",
+    "check_string": "og:title",
+    "category": "blog",
+    "country": "🌍"
+  },
+  {
+    "name": "Royal Road",
+    "url": "https://www.royalroad.com/profile/{username}",
+    "check_string": "og:title",
+    "category": "blog",
+    "country": "🌍"
+  },
+  {
+    "name": "Scribd",
+    "url": "https://www.scribd.com/{username}",
+    "check_string": "og:title",
+    "category": "blog",
+    "country": "🌍"
+  },
+  {
+    "name": "AngelList",
+    "url": "https://angel.co/u/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Freelancer",
+    "url": "https://www.freelancer.com/u/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/freelancers/~{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Fiverr",
+    "url": "https://www.fiverr.com/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "ProductHunt",
+    "url": "https://www.producthunt.com/@{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Crunchbase",
+    "url": "https://www.crunchbase.com/person/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "ResearchGate",
+    "url": "https://www.researchgate.net/profile/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Academia.edu",
+    "url": "https://independent.academia.edu/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Coursera",
+    "url": "https://www.coursera.org/user/profile/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Duolingo",
+    "url": "https://www.duolingo.com/profile/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Sessionize",
+    "url": "https://sessionize.com/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Etsy",
+    "url": "https://www.etsy.com/shop/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "eBay",
+    "url": "https://www.ebay.com/usr/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "Patreon",
+    "url": "https://www.patreon.com/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "Ko-fi",
+    "url": "https://ko-fi.com/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "BuyMeACoffee",
+    "url": "https://www.buymeacoffee.com/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "Gumroad",
+    "url": "https://gumroad.com/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "Kickstarter",
+    "url": "https://www.kickstarter.com/profile/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "Poshmark",
+    "url": "https://poshmark.com/closet/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "Depop",
+    "url": "https://www.depop.com/{username}/",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "Vinted",
+    "url": "https://www.vinted.com/member/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "Grailed",
+    "url": "https://www.grailed.com/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "MyAnimeList",
+    "url": "https://myanimelist.net/profile/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "AniList",
+    "url": "https://anilist.co/user/{username}/",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Kitsu",
+    "url": "https://kitsu.io/users/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Letterboxd",
+    "url": "https://letterboxd.com/{username}/",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Goodreads",
+    "url": "https://www.goodreads.com/user/show/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "IMDb",
+    "url": "https://www.imdb.com/user/{username}/",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Strava",
+    "url": "https://www.strava.com/athletes/{username}",
+    "check_string": "og:title",
+    "category": "sport",
+    "country": "🌍"
+  },
+  {
+    "name": "Chess24",
+    "url": "https://chess24.com/en/profile/{username}",
+    "check_string": "og:title",
+    "category": "sport",
+    "country": "🌍"
+  },
+  {
+    "name": "AllTrails",
+    "url": "https://www.alltrails.com/members/{username}",
+    "check_string": "og:title",
+    "category": "sport",
+    "country": "🌍"
+  },
+  {
+    "name": "Komoot",
+    "url": "https://www.komoot.de/user/{username}",
+    "check_string": "og:title",
+    "category": "sport",
+    "country": "🌍"
+  },
+  {
+    "name": "MyFitnessPal",
+    "url": "https://www.myfitnesspal.com/profile/{username}",
+    "check_string": "og:title",
+    "category": "sport",
+    "country": "🌍"
+  },
+  {
+    "name": "TripAdvisor",
+    "url": "https://www.tripadvisor.com/Profile/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Couchsurfing",
+    "url": "https://www.couchsurfing.com/people/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Polarsteps",
+    "url": "https://www.polarsteps.com/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "OpenStreetMap",
+    "url": "https://www.openstreetmap.org/user/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Geocaching",
+    "url": "https://www.geocaching.com/p/?u={username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "VK",
+    "url": "https://vk.com/{username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "OK.ru",
+    "url": "https://ok.ru/{username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Habr",
+    "url": "https://habr.com/en/users/{username}/",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Pikabu",
+    "url": "https://pikabu.ru/@{username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "DTF",
+    "url": "https://dtf.ru/u/{username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "VC.ru",
+    "url": "https://vc.ru/u/{username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "TJournal",
+    "url": "https://tjournal.ru/u/{username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Drive2.ru",
+    "url": "https://www.drive2.ru/users/{username}/",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "LiveInternet",
+    "url": "https://www.liveinternet.ru/users/{username}/",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Mamba",
+    "url": "https://www.mamba.ru/en/user/{username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Rutracker",
+    "url": "https://rutracker.org/forum/profile.php?mode=viewprofile&u={username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "4PDA",
+    "url": "https://4pda.to/forum/index.php?showuser={username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Sports.ru",
+    "url": "https://www.sports.ru/profile/{username}/",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "FL.ru",
+    "url": "https://www.fl.ru/users/{username}/",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Avito",
+    "url": "https://www.avito.ru/profile/{username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Auto.ru",
+    "url": "https://auto.ru/user/{username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Stepik",
+    "url": "https://stepik.org/users/{username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "GeekBrains",
+    "url": "https://geekbrains.ru/users/{username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "VKPlay",
+    "url": "https://vkplay.ru/user/{username}/",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Stack Overflow RU",
+    "url": "https://ru.stackoverflow.com/users/{username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Yandex Zen",
+    "url": "https://dzen.ru/{username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Fotostrana",
+    "url": "https://fotostrana.ru/user/{username}/",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Mail.ru Moi Mir",
+    "url": "https://my.mail.ru/mail/{username}/",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Stopgame.ru",
+    "url": "https://stopgame.ru/profile/{username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Drom.ru",
+    "url": "https://www.drom.ru/info/{username}/",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Kwork",
+    "url": "https://kwork.ru/user/{username}",
+    "check_string": "og:title",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "OLX Ukraine",
+    "url": "https://www.olx.ua/uk/list/user//{username}/",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "Shafa.ua",
+    "url": "https://shafa.ua/profile/{username}",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "DOU.ua",
+    "url": "https://dou.ua/users/{username}/",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "Djinni",
+    "url": "https://djinni.co/{username}",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "Work.ua",
+    "url": "https://www.work.ua/resumes/{username}/",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "Robota.ua",
+    "url": "https://robota.ua/candidates/{username}",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "Freelancehunt",
+    "url": "https://freelancehunt.com/freelancer/{username}.html",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "Kabanchik.ua",
+    "url": "https://kabanchik.ua/ua/profile/{username}",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "AIN.ua",
+    "url": "https://ain.ua/author/{username}/",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "MC.today",
+    "url": "https://mc.today/author/{username}/",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "Football.ua",
+    "url": "https://football.ua/users/{username}",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "WhiteBIT",
+    "url": "https://whitebit.com/user/{username}",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "Kuna.io",
+    "url": "https://kuna.io/user/{username}",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "Monobank",
+    "url": "https://send.monobank.ua/{username}",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "Dev.ua",
+    "url": "https://dev.ua/profile/{username}",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "Weblancer",
+    "url": "https://www.weblancer.net/users/{username}/",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "Prom.ua",
+    "url": "https://prom.ua/search?search_term={username}",
+    "check_string": "og:title",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "Tinder",
+    "url": "https://tinder.com/@{username}",
+    "category": "dating",
+    "country": "🌍"
+  },
+  {
+    "name": "Badoo",
+    "url": "https://badoo.com/en/{username}",
+    "check_string": "og:title",
+    "category": "dating",
+    "country": "🌍"
+  },
+  {
+    "name": "OkCupid",
+    "url": "https://www.okcupid.com/profile/{username}",
+    "check_string": "og:title",
+    "category": "dating",
+    "country": "🌍"
+  },
+  {
+    "name": "Bumble",
+    "url": "https://bumble.com/en/about/{username}",
+    "category": "dating",
+    "country": "🌍"
+  },
+  {
+    "name": "Lovoo",
+    "url": "https://www.lovoo.com/user/pics/profile/{username}",
+    "check_string": "og:title",
+    "category": "dating",
+    "country": "🌍"
+  },
+  {
+    "name": "Zoosk",
+    "url": "https://www.zoosk.com/en/dating/singles/{username}",
+    "check_string": "og:title",
+    "category": "dating",
+    "country": "🌍"
+  },
+  {
+    "name": "Grindr",
+    "url": "https://grindr.com/profiles/{username}",
+    "category": "dating",
+    "country": "🌍"
+  },
+  {
+    "name": "Hornet",
+    "url": "https://hornet.com/members/{username}/",
+    "check_string": "og:title",
+    "category": "dating",
+    "country": "🌍"
+  },
+  {
+    "name": "Fetlife",
+    "url": "https://fetlife.com/{username}",
+    "category": "dating",
+    "country": "🌍"
+  },
+  {
+    "name": "OnlyFans",
+    "url": "https://onlyfans.com/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Fansly",
+    "url": "https://fansly.com/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "ManyVids",
+    "url": "https://www.manyvids.com/Profile/{username}/",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Chaturbate",
+    "url": "https://chaturbate.com/{username}/",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "BongaCams",
+    "url": "https://bongacams.com/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Stripchat",
+    "url": "https://stripchat.com/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "CamSoda",
+    "url": "https://www.camsoda.com/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "MyFreeCams",
+    "url": "https://profiles.myfreecams.com/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Cam4",
+    "url": "https://www.cam4.com/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "JustForFans",
+    "url": "https://justfor.fans/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "FanCentro",
+    "url": "https://fancentro.com/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Loyalfans",
+    "url": "https://www.loyalfans.com/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Erome",
+    "url": "https://www.erome.com/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "RedGIFs",
+    "url": "https://www.redgifs.com/users/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "AdultWork",
+    "url": "https://www.adultwork.com/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Modelhub",
+    "url": "https://www.modelhub.com/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Swinglifestyle",
+    "url": "https://www.swinglifestyle.com/members/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "1xBet",
+    "url": "https://1xbet.com/en/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Parimatch",
+    "url": "https://parimatch.com/en/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Bet365",
+    "url": "https://www.bet365.com/en/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "William Hill",
+    "url": "https://www.williamhill.com/member/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Betway",
+    "url": "https://betway.com/en/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Unibet",
+    "url": "https://www.unibet.com/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Bwin",
+    "url": "https://sports.bwin.com/en/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Betfair",
+    "url": "https://www.betfair.com/en/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Marathonbet",
+    "url": "https://www.marathonbet.com/en/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Fonbet",
+    "url": "https://www.fonbet.ru/profile/{username}",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Melbet",
+    "url": "https://melbet.com/en/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "1Win",
+    "url": "https://1win.com/en/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Mostbet",
+    "url": "https://mostbet.com/en/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Favbet",
+    "url": "https://favbet.ua/uk/profile/{username}",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "GGbet",
+    "url": "https://ggbet.com/en/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Winline",
+    "url": "https://winline.ru/profile/{username}",
+    "category": "cis",
+    "country": "🇷🇺"
+  },
+  {
+    "name": "Stake.com",
+    "url": "https://stake.com/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Roobet",
+    "url": "https://roobet.com/user/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "PokerStars",
+    "url": "https://www.pokerstars.com/en/profile/{username}/",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "GGPoker",
+    "url": "https://ggpoker.com/en/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "888poker",
+    "url": "https://www.888poker.com/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "PinUp Casino",
+    "url": "https://pinup.com/en/profile/{username}",
+    "category": "ukraine",
+    "country": "🇺🇦"
+  },
+  {
+    "name": "Play Fortuna",
+    "url": "https://playfortuna.com/en/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Bitstarz",
+    "url": "https://www.bitstarz.com/profile/{username}",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "DraftKings",
+    "url": "https://www.draftkings.com/profile/{username}",
+    "category": "sport",
+    "country": "🌍"
+  },
+  {
+    "name": "FanDuel",
+    "url": "https://www.fanduel.com/profile/{username}",
+    "category": "sport",
+    "country": "🌍"
+  },
+  {
+    "name": "Bitcointalk",
+    "url": "https://bitcointalk.org/index.php?action=profile;u={username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "OpenSea",
+    "url": "https://opensea.io/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Steemit",
+    "url": "https://steemit.com/@{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Hive Blog",
+    "url": "https://hive.blog/@{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Weibo",
+    "url": "https://weibo.com/{username}",
+    "category": "social",
+    "country": "🇨🇳"
+  },
+  {
+    "name": "Bilibili",
+    "url": "https://space.bilibili.com/{username}",
+    "check_string": "og:title",
+    "category": "video",
+    "country": "🇨🇳"
+  },
+  {
+    "name": "Naver Blog",
+    "url": "https://blog.naver.com/{username}",
+    "check_string": "og:title",
+    "category": "blog",
+    "country": "🇰🇷"
+  },
+  {
+    "name": "Kakao Story",
+    "url": "https://story.kakao.com/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🇰🇷"
+  },
+  {
+    "name": "NicoNico",
+    "url": "https://www.nicovideo.jp/user/{username}",
+    "check_string": "og:title",
+    "category": "video",
+    "country": "🇯🇵"
+  },
+  {
+    "name": "Xiaohongshu",
+    "url": "https://www.xiaohongshu.com/user/profile/{username}",
+    "category": "social",
+    "country": "🇨🇳"
+  },
+  {
+    "name": "Cyworld",
+    "url": "https://www.cyworld.com/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🇰🇷"
+  },
+  {
+    "name": "Xbox Gamertag",
+    "url": "https://xboxgamertag.com/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Battle.net",
+    "url": "https://overwatch.blizzard.com/en-us/career/{username}/",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Kongregate",
+    "url": "https://www.kongregate.com/accounts/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Armor Games",
+    "url": "https://armorgames.com/user/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Nitro Type",
+    "url": "https://www.nitrotype.com/racer/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Backloggd",
+    "url": "https://www.backloggd.com/u/{username}/",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Fortnite Tracker",
+    "url": "https://fortnitetracker.com/profile/all/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Tracker.gg",
+    "url": "https://tracker.gg/valorant/profile/riot/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "2048 Game",
+    "url": "https://play2048.co/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "Torn City",
+    "url": "https://www.torn.com/profiles.php?XID={username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🌍"
+  },
+  {
+    "name": "GitHub Gist",
+    "url": "https://gist.github.com/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "XDA Developers",
+    "url": "https://forum.xda-developers.com/m/{username}/",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "IndieHackers",
+    "url": "https://www.indiehackers.com/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Observable",
+    "url": "https://observablehq.com/@{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "JSFiddle",
+    "url": "https://jsfiddle.net/user/{username}/",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Exercism",
+    "url": "https://exercism.org/profiles/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Gitea",
+    "url": "https://gitea.com/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Lobsters",
+    "url": "https://lobste.rs/~{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Peerlist",
+    "url": "https://peerlist.io/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Daily.dev",
+    "url": "https://app.daily.dev/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Coinbase",
+    "url": "https://www.coinbase.com/{username}",
+    "check_string": "og:title",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Crypto.com",
+    "url": "https://crypto.com/{username}",
+    "category": "dev",
+    "country": "🌍"
+  },
+  {
+    "name": "Mirror.xyz",
+    "url": "https://mirror.xyz/{username}",
+    "check_string": "og:title",
+    "category": "blog",
+    "country": "🌍"
+  },
+  {
+    "name": "Lens Protocol",
+    "url": "https://lenster.xyz/u/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Wykop.pl",
+    "url": "https://wykop.pl/ludzie/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🇵🇱"
+  },
+  {
+    "name": "Eksisozluk",
+    "url": "https://eksisozluk.com/biri/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🇹🇷"
+  },
+  {
+    "name": "Taringa",
+    "url": "https://www.taringa.net/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🇦🇷"
+  },
+  {
+    "name": "Fotolog",
+    "url": "https://fotolog.com/{username}/",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🇧🇷"
+  },
+  {
+    "name": "Nasz wybor",
+    "url": "https://naszwybor.pl/user/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🇵🇱"
+  },
+  {
+    "name": "Szachy.pl",
+    "url": "https://www.szachy.pl/profil/{username}",
+    "check_string": "og:title",
+    "category": "gaming",
+    "country": "🇵🇱"
+  },
+  {
+    "name": "Allegro",
+    "url": "https://allegrolokalnie.pl/uzytkownik/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🇵🇱"
+  },
+  {
+    "name": "Hepsiburada",
+    "url": "https://www.hepsiburada.com/magaza/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🇹🇷"
+  },
+  {
+    "name": "Sahibinden",
+    "url": "https://www.sahibinden.com/ilan/satin-al/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🇹🇷"
+  },
+  {
+    "name": "Podbean",
+    "url": "https://www.podbean.com/site/profilePage/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Spreaker",
+    "url": "https://www.spreaker.com/user/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Podchaser",
+    "url": "https://www.podchaser.com/creators/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Castbox",
+    "url": "https://castbox.fm/channel/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Buzzsprout",
+    "url": "https://www.buzzsprout.com/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Clubhouse",
+    "url": "https://www.joinclubhouse.com/@{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Minds",
+    "url": "https://www.minds.com/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Vero",
+    "url": "https://www.vero.co/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Ello",
+    "url": "https://ello.co/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Parler",
+    "url": "https://parler.com/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Mix",
+    "url": "https://mix.com/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Locket",
+    "url": "https://locket.cam/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Peanut",
+    "url": "https://www.peanut-app.io/profile/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Cara",
+    "url": "https://cara.app/{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Coroflot",
+    "url": "https://www.coroflot.com/{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Adobe Behance",
+    "url": "https://www.adobe.com/creativecloud/{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Canva",
+    "url": "https://www.canva.com/{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Zazzle",
+    "url": "https://www.zazzle.com/store/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "Streamlabs",
+    "url": "https://streamlabs.com/{username}",
+    "check_string": "og:title",
+    "category": "video",
+    "country": "🌍"
+  },
+  {
+    "name": "Audiojungle",
+    "url": "https://audiojungle.net/user/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "Pond5",
+    "url": "https://www.pond5.com/artist/{username}/",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Artlist",
+    "url": "https://artlist.io/artist/{username}",
+    "check_string": "og:title",
+    "category": "music",
+    "country": "🌍"
+  },
+  {
+    "name": "MeetMe",
+    "url": "https://www.meetme.com/apps/profile/{username}",
+    "check_string": "og:title",
+    "category": "dating",
+    "country": "🌍"
+  },
+  {
+    "name": "Tagged",
+    "url": "https://www.tagged.com/profile.html?uid={username}",
+    "check_string": "og:title",
+    "category": "dating",
+    "country": "🌍"
+  },
+  {
+    "name": "Skout",
+    "url": "https://www.skout.com/user/{username}",
+    "check_string": "og:title",
+    "category": "dating",
+    "country": "🌍"
+  },
+  {
+    "name": "Threadless",
+    "url": "https://www.threadless.com/@{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "Creative Market",
+    "url": "https://creativemarket.com/users/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "Sellfy",
+    "url": "https://sellfy.com/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "Spring",
+    "url": "https://www.spri.ng/{username}",
+    "check_string": "og:title",
+    "category": "marketplace",
+    "country": "🌍"
+  },
+  {
+    "name": "Ghost",
+    "url": "https://{username}.ghost.io",
+    "check_string": "og:title",
+    "category": "blog",
+    "country": "🌍"
+  },
+  {
+    "name": "Beehiiv",
+    "url": "https://{username}.beehiiv.com",
+    "check_string": "og:title",
+    "category": "blog",
+    "country": "🌍"
+  },
+  {
+    "name": "Svbtle",
+    "url": "https://{username}.svbtle.com",
+    "check_string": "og:title",
+    "category": "blog",
+    "country": "🌍"
+  },
+  {
+    "name": "Zwift",
+    "url": "https://www.zwift.com/athlete/{username}",
+    "check_string": "og:title",
+    "category": "sport",
+    "country": "🌍"
+  },
+  {
+    "name": "Garmin Connect",
+    "url": "https://connect.garmin.com/modern/profile/{username}",
+    "check_string": "og:title",
+    "category": "sport",
+    "country": "🌍"
+  },
+  {
+    "name": "Nike Run Club",
+    "url": "https://www.nike.com/en/run/profile/{username}",
+    "check_string": "og:title",
+    "category": "sport",
+    "country": "🌍"
+  },
+  {
+    "name": "Strava Segments",
+    "url": "https://www.strava.com/pros/{username}",
+    "check_string": "og:title",
+    "category": "sport",
+    "country": "🌍"
+  },
+  {
+    "name": "MangaDex",
+    "url": "https://mangadex.org/user/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Mangaupdates",
+    "url": "https://www.mangaupdates.com/users.html?id={username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Crunchyroll",
+    "url": "https://www.crunchyroll.com/user/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Gravatar",
+    "url": "https://gravatar.com/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Giphy",
+    "url": "https://giphy.com/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Unsplash Collection",
+    "url": "https://unsplash.com/collections/{username}",
+    "check_string": "og:title",
+    "category": "design",
+    "country": "🌍"
+  },
+  {
+    "name": "Foursquare",
+    "url": "https://foursquare.com/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Houzz",
+    "url": "https://www.houzz.com/user/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  },
+  {
+    "name": "Ravelry",
+    "url": "https://www.ravelry.com/people/{username}",
+    "check_string": "og:title",
+    "category": "social",
+    "country": "🌍"
+  }
+]
