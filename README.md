@@ -71,6 +71,10 @@ Built with a sleek dark cyberpunk UI, real-time progress tracking, and full expo
 
 ```bash
 # 1. Clone the repository
+# Via GitHub CLI (recommended)
+gh repo clone SiLiN-ua/ThunderTrace
+
+# Via Git
 git clone https://github.com/SiLiN-ua/ThunderTrace
 cd ThunderTrace
 
