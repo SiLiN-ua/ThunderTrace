@@ -174,7 +174,7 @@ The author is not responsible for any misuse of this tool.
 
 ## 👤 Author
 
-**SiLiN** — [GitHub](https://github.com/SiLiN-ua)
+**Yehor Selin (SiLiN)** — [GitHub](https://github.com/SiLiN-ua) | [LinkedIn](https://www.linkedin.com/in/yehor-selin/)
 
 ---
 
